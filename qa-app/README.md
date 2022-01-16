@@ -1,4 +1,4 @@
-# Zero-Shot Image Classification App
+# Extractive QA Model
 
 This project was built using [Next.js](https://nextjs.org/) and [TailwindCSS](https://tailwindcss.com/), and deployed on [Netlify](https://netlify.com/)
 

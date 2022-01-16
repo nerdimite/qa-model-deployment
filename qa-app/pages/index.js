@@ -99,10 +99,10 @@ export default function Home() {
             >
               Powered by CellStrat Hub API⚡
             </a>{" "}
-            {/* <a
+            <a
               target="_blank"
               rel="noreferrer"
-              href="https://github.com/nerdimite/zero-shot-image-classifier-deployment"
+              href="https://github.com/nerdimite/qa-model-deployment"
             >
               <div
                 className="py-2 px-3  inline-block rounded-full \
@@ -114,7 +114,7 @@ export default function Home() {
                 </span>
                 💻
               </div>
-            </a> */}
+            </a>
           </div>
         </div>
 
